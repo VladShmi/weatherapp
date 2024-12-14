@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="city_name">City Name</string>
+    <string name="temperature_label">Temperature: %1$s°C</string>
+    <string name="description_label">Description: %1$s</string>
+    <string name="get_weather_button">Get Weather</string>
+    <string name="error_message">Error: %1$s</string>
 </resources>
